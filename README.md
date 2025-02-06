@@ -45,8 +45,7 @@ I'm a **BI Engineer** and **Cybersecurity Enthusiast** with a passion for **data
 
 ## 📊 GitHub Stats  
 
-![Bareen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bareenmangal&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bareenmangal&layout=compact&theme=radical)  
+
 
 ---
 
