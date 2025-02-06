@@ -52,7 +52,7 @@ I'm a **BI Engineer** and **Cybersecurity Enthusiast** with a passion for **data
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/barin-mangal/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/bareenmangal)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Bareen-Mangal)  
 
 💡 **Open to collaborations on cybersecurity, digital rights, and privacy projects. Let’s connect!** 🚀  
 
