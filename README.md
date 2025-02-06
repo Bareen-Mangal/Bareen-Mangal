@@ -6,7 +6,7 @@ I'm a **BI Engineer** and **Cybersecurity Enthusiast** with a passion for **data
 
 ## 🚀 What You'll Find on My GitHub  
 🔹 **Cybersecurity Projects** – Research & tools for **threat detection, compliance, and risk assessment**  
-🔹 ** Cybersecurity & Online Safety for Women** – Raising awareness & building security solutions for **gender-based cyber risks**  
+🔹 **Cybersecurity & Online Safety for Women** – Raising awareness & building security solutions for **gender-based cyber risks**  
 🔹 **BI & Data Projects** – SQL, ETL pipelines, and **data security** in business intelligence  
 🔹 **Personal Security Projects** – Exploring tools for **cloud security, encryption, and privacy**  
 
